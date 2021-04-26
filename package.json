@@ -1,5 +1,6 @@
 {
 	"author": "Ilker Akbiyik",
+	"description": "learning to add a description now",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
